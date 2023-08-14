@@ -1,8 +1,12 @@
 import './App.css';
+import Button from './Components/Button/Button';
 
 function App() {
   return (
-    <h1> maKe boLd stEps !</h1>
+    <>
+      maKe auDacioUs stEps! bE boLd! 
+      <Button />
+    </>
   );
 }
 
